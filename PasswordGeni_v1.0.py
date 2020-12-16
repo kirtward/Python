@@ -1,3 +1,4 @@
+#Random password generator for Power I (iSeries/AS400), 10 characters (2 upper, 5 lower, 2 digits & 1 special Limited to "$#@_")
 import random
 
 # shuffle password
