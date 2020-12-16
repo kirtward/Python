@@ -1,3 +1,4 @@
+#Basic random password generator, 8 characters (2 upper, 2 lower, 2 digits & 2 special)
 import random
 
 # shuffle password
